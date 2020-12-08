@@ -7,11 +7,13 @@ Ich bin ein 16 jähriger Junge, dem Programmieren Spaß macht
 ## Tech Stack
 
 - PHP
-- JavaScript
+- Node.js
+- JavaScript / TypeScript
 - JQuery
 - React
-- Ionic 5 React
+- Ionic 5 React & Capacitor
 - C++
+- (npm höhö)
 
 ## Badges
 
