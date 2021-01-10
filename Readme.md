@@ -4,6 +4,9 @@
 
 Ich bin ein 16 jähriger Junge, dem Programmieren Spaß macht
 
+## I like Bitcoin
+Falls du zu viel hast: bc1q7ue3hgtdscc7y2fq5we4qqq5gtjkyu5qyulgx3
+
 ## Tech Stack
 
 - PHP
